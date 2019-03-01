@@ -1,0 +1,11 @@
+C:\Users\mleavell\workspace\backend\inclass\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\netcoreapp2.1\MyFirstConsoleApp.deps.json
+C:\Users\mleavell\workspace\backend\inclass\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\netcoreapp2.1\MyFirstConsoleApp.runtimeconfig.json
+C:\Users\mleavell\workspace\backend\inclass\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\netcoreapp2.1\MyFirstConsoleApp.runtimeconfig.dev.json
+C:\Users\mleavell\workspace\backend\inclass\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\netcoreapp2.1\MyFirstConsoleApp.dll
+C:\Users\mleavell\workspace\backend\inclass\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\netcoreapp2.1\MyFirstConsoleApp.pdb
+C:\Users\mleavell\workspace\backend\inclass\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\netcoreapp2.1\MyFirstConsoleApp.csprojAssemblyReference.cache
+C:\Users\mleavell\workspace\backend\inclass\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\netcoreapp2.1\MyFirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\mleavell\workspace\backend\inclass\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\netcoreapp2.1\MyFirstConsoleApp.AssemblyInfoInputs.cache
+C:\Users\mleavell\workspace\backend\inclass\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\netcoreapp2.1\MyFirstConsoleApp.AssemblyInfo.cs
+C:\Users\mleavell\workspace\backend\inclass\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\netcoreapp2.1\MyFirstConsoleApp.dll
+C:\Users\mleavell\workspace\backend\inclass\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\netcoreapp2.1\MyFirstConsoleApp.pdb
